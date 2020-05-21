@@ -3,7 +3,13 @@ h3 {
 }
 
 img {
+   height: 150 px;
+   width: 100 px;
 
+}
+#special-photo {
+  height: 14%;
+  width: 14%; 
 }
 
 .photos {
